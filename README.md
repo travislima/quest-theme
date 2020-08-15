@@ -1,6 +1,6 @@
 # Quest Theme
 
-![Dracula](https://draculatheme.com/static/img/dracula.gif)
+![Dracula](https://draculatheme.com/static/img/dracula.gif
 
 > A dark theme for [Atom](http://atom.io/), [Alfred](http://www.alfredapp.com/), [Emacs](https://www.gnu.org/software/emacs/), [Highlight.js](https://highlightjs.org/), [Hyper](https://hyper.is/), [iTerm](http://www.iterm2.com/), [JetBrains](https://www.jetbrains.com/), [Pygments](http://pygments.org/), [Slack](http://slack.com), [Sublime Text](http://www.sublimetext.com/3), [TextMate](http://macromates.com/), [Terminal.app](http://www.apple.com/osx/apps), [Vim](http://www.vim.org/), [Xcode](https://itunes.apple.com/us/app/xcode/id497799835), [Zsh](http://www.zsh.org/) and many more.
 
@@ -20,10 +20,10 @@ Comment      | `#5c194f` | `92 25 79`  | `312° 73% 36%`  | ![Comment Color](htt
 Cyan         | `#00a2dd` | `0 162 221` | `196° 100% 87%`  | ![Cyan Color](https://draculatheme.com/static/img/color-boxes/cyan.png)
 Green        | `#a4d97d` | `164 217 125`  | `95° 42% 85%`  | ![Green Color](https://draculatheme.com/static/img/color-boxes/green.png)
 Orange       | `#feb801` | `254 184 1` | `43° 99% 99%`  | ![Orange Color](https://draculatheme.com/static/img/color-boxes/orange.png)
-Pink         | `#ff79c6` | `255 121 198` | `326° 100% 74%` | ![Pink Color](https://draculatheme.com/static/img/color-boxes/pink.png)
-Purple       | `#bd93f9` | `189 147 249` | `265° 89% 78%`  | ![Purple Color](https://draculatheme.com/static/img/color-boxes/purple.png)
-Red          | `#ff5555` | `255 85 85`   | `0° 100% 67%`   | ![Red Color](https://draculatheme.com/static/img/color-boxes/red.png)
-Yellow       | `#f1fa8c` | `241 250 140` | `65° 92% 76%`   | ![Yellow Color](https://draculatheme.com/static/img/color-boxes/yellow.png)
+Pink         | `#ef72aa` | `239 114 170` | `333° 52% 94%` | ![Pink Color](https://draculatheme.com/static/img/color-boxes/pink.png)
+Purple       | `#7c56f9` | `124 86 249` | `254° 65% 98%`  | ![Purple Color](https://draculatheme.com/static/img/color-boxes/purple.png)
+Red          | `#ef443a` | `239 68 58`   | `3° 76% 94%`   | ![Red Color](https://draculatheme.com/static/img/color-boxes/red.png)
+Yellow       | `#fbf034` | `251 240 52` | `57° 79% 98%`   | ![Yellow Color](https://draculatheme.com/static/img/color-boxes/yellow.png)
 
 For more details about how to apply these different colors to represent different code symbols, please see the [Dracula Specification](https://spec.draculatheme.com).
 
