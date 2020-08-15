@@ -10,7 +10,8 @@
 
 1. Copy the values below.
 2. Navigate to Slac > Preferences > Themes.
-3. Paste values into Color section.
+3. Click "Create a custome theme".
+4. Paste values below into the color input field as is.
 
 
 ```
