@@ -10,7 +10,7 @@
 
 1. Copy the values below.
 2. Navigate to Slack > Preferences > Themes.
-3. Click "Create a custome theme".
+3. Click "Create a custom theme".
 4. Paste values below into the color input field as is.
 
 
