@@ -2,7 +2,7 @@
 
 
 ## Install
-1) Download Quest Themes from questtheme.com
+1) Download Quest Themes from www.questtheme.com
 2) Upload the TML file to your web app of choice. 
 3) Different web apps might require different installation methods, but all are similar.
 * NOTE - Reach out to our support team if you feel you are having difficulty installing your theme.
